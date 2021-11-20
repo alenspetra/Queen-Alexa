@@ -35,13 +35,13 @@ WhatsApp Bot
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
+[`Click Here`](https://github.com/alenspetra/Queen-Alexa/blob/main/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
-- Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
-- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
+- Owner number [Here](https://github.com/alenspetra/Queen-Alexa/blob/main/settings.json#L4)
+- Owner Name [Here](https://github.com/alenspetra/Queen-Alexa/blob/main/settings.json#L14)
+- Bot Name [Here](https://github.com/alenspetra/Queen-Alexa/blob/main/settings.json#L15)
 
 ## `CHANGE DYNO`
 
